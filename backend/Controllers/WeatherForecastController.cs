@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace Mission12_dlbaldwi.Controllers
+namespace backend.Controllers
 {
     [ApiController]
     [Route("[controller]")]
